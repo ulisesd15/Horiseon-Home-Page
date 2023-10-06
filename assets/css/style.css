@@ -1,11 +1,11 @@
-* {
+* { /*this tag here applies to all of the text and it is mostly used as formatting */
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-.header {
-    padding: 20px;
+.header { /* this tag here also applies to all of the text because it is the header and it contains the font, the padding between the deader and the */
+    padding: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
