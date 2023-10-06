@@ -20,7 +20,7 @@ Then I find a logical structure independent of styling and positioning independe
 ulisesd15.github.io/Horiseon-Home-Page
 
 ### Webpage Screenshot
-
+![Alt text](<./assets/images/HHP proof.png>)
 
 
 ### How to access files
