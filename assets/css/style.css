@@ -93,17 +93,6 @@ p { /*paragraphs have the font size of 16 pixels*/
     color: #ffffff;
 }
 
-#search-engine-optimization h2 {
-    /*gives spacing on the bottom of the header and it gives it a font size*/
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-#search-engine-optimization img { 
-    /*sizes the image in the class'search-engine-optimization'*/
-    max-height: 200px;
-}
-
 
 .online-reputation-management {
     /*formatting and positioning for the box 'online-reputation-management'*/
@@ -113,17 +102,6 @@ p { /*paragraphs have the font size of 16 pixels*/
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-.online-reputation-management h2 {
-    /*gives spacing on the bottom of the header and it gives it a font size*/
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management img {
-    /*sizes the image in the class'online-reputation-management'*/
-    max-height: 200px;
 }
 
 .social-media-marketing {
@@ -136,10 +114,32 @@ p { /*paragraphs have the font size of 16 pixels*/
     color: #ffffff;
 }
 
+
+#search-engine-optimization h2 {
+    /*gives spacing on the bottom of the header and it gives it a font size*/
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.online-reputation-management h2 {
+    /*gives spacing on the bottom of the header and it gives it a font size*/
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 .social-media-marketing h2 {
     /*gives spacing on the bottom of the header and it gives it a font size*/
     margin-bottom: 20px;
     font-size: 36px;
+}
+#search-engine-optimization img { 
+    /*sizes the image in the class'search-engine-optimization'*/
+    max-height: 200px;
+}
+
+.online-reputation-management img {
+    /*sizes the image in the class'online-reputation-management'*/
+    max-height: 200px;
 }
 
 .social-media-marketing img {
@@ -163,7 +163,27 @@ p { /*paragraphs have the font size of 16 pixels*/
     color: #ffffff;
 }
 
+.benefit-brand { /*box-bottom box separation 32px*/
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-cost {/*box-bottom separation 32px*/
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
 .benefit-lead h3 { /*positions title*/
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-brand h3 { /*positions title*/
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-cost h3 { /*positions title*/
     margin-bottom: 10px;
     text-align: center;
 }
@@ -174,30 +194,10 @@ p { /*paragraphs have the font size of 16 pixels*/
     max-width: 150px;
 }
 
-.benefit-brand { /*box-bottom box separation 32px*/
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand h3 { /*positions title*/
-    margin-bottom: 10px;
-    text-align: center;
-}
-
 .benefit-brand img { /*positions image*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-.benefit-cost {/*box-bottom separation 32px*/
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost h3 { /*positions title*/
-    margin-bottom: 10px;
-    text-align: center;
 }
 
 .benefit-cost img { /*positions image*/
